@@ -1,0 +1,11 @@
+C:\Users\Nam Huong\source\repos\HoangdinhthienKTPM2\HoangdinhthienKTPM2\bin\Debug\HoangdinhthienKTPM2.exe.config
+C:\Users\Nam Huong\source\repos\HoangdinhthienKTPM2\HoangdinhthienKTPM2\bin\Debug\HoangdinhthienKTPM2.exe
+C:\Users\Nam Huong\source\repos\HoangdinhthienKTPM2\HoangdinhthienKTPM2\bin\Debug\HoangdinhthienKTPM2.pdb
+C:\Users\Nam Huong\source\repos\HoangdinhthienKTPM2\HoangdinhthienKTPM2\obj\Debug\HoangdinhthienKTPM2.csprojAssemblyReference.cache
+C:\Users\Nam Huong\source\repos\HoangdinhthienKTPM2\HoangdinhthienKTPM2\obj\Debug\HoangdinhthienKTPM2.Form1.resources
+C:\Users\Nam Huong\source\repos\HoangdinhthienKTPM2\HoangdinhthienKTPM2\obj\Debug\HoangdinhthienKTPM2.Properties.Resources.resources
+C:\Users\Nam Huong\source\repos\HoangdinhthienKTPM2\HoangdinhthienKTPM2\obj\Debug\HoangdinhthienKTPM2.csproj.GenerateResource.cache
+C:\Users\Nam Huong\source\repos\HoangdinhthienKTPM2\HoangdinhthienKTPM2\obj\Debug\HoangdinhthienKTPM2.exe
+C:\Users\Nam Huong\source\repos\HoangdinhthienKTPM2\HoangdinhthienKTPM2\obj\Debug\HoangdinhthienKTPM2.pdb
+C:\Users\Nam Huong\source\repos\HoangdinhthienKTPM2\HoangdinhthienKTPM2\obj\Debug\HoangdinhthienKTPM2.Form2.resources
+C:\Users\Nam Huong\source\repos\HoangdinhthienKTPM2\HoangdinhthienKTPM2\obj\Debug\HoangdinhthienKTPM2.Form3.resources
